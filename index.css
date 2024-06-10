@@ -151,7 +151,7 @@ h1 {
 
 .gif{
     background-color: aqua;
-    background-image: url(Phirdyz/midias/super-mario-rpg-nintendo.gif);
+    background-image: url("../midias/super-mario-rpg-nintendo.gif");
     height: 10vw;
     width: 100%;
     position: absolute;
